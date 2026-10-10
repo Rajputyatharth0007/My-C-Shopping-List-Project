@@ -1,0 +1,32 @@
+# Compiled binaries and executables
+*.exe
+*.out
+*.app
+*.bin
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug and symbol files
+*.dSYM/
+*.pdb
+*.ilk
+
+# Build and temporary files
+*.tmp
+*.log
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
